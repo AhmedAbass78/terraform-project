@@ -1,6 +1,6 @@
 ## Tier App via Terraform
 
-## This is a terraform code ... to build infrastructure on AWS cloud platform ...
+## This is a terraform code ... to build infrastructure on AWS ...
 
  * Provision a VPC with cidr block 192.168.0.0/16 .. with IGW and route tables 
  * Provision two subnets > public subnet 192.168.1.0/24
